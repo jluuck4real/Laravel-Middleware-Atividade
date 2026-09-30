@@ -159,7 +159,7 @@ http://127.0.0.1:8000
 
 ## **👨‍💻 Desenvolvedor**
 
-**Renan Pereira Rezaghi**
+**João Lucas**
 
 Projeto desenvolvido para fins **acadêmicos e educacionais**.
 
